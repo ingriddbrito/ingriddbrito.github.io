@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Ingridd Brito
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ingridd
+last_name: Brito
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: QA Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name:
+    url:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -33,154 +33,199 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ingriddbrito
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/ingridd-brito/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Software testing
+  - Agile testing
+  - OpenVAS
+  - Kali Linux
+  - ADICIONAR
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Test Analysis, Computer Science
+    institution: Universidade Federal de Pernambuco (UFPE) - Brazil
+    date_start: 2013-01-01
+    date_end: 2013-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Presented a dissertation with title 'OracleKMS A Tool for Knowledge Management', I was supervised by Dr Alexandre Cabral Mota. I obtained he highest score in the class.
+  - area: BSc Computer Science
+    institution: Universidade Católica de Pernambuco (UNICAP) - Brazil
+    date_start: 2002-01-01
+    date_end: 2007-12-31
     summary: |
-      GPA: 3.8/4.0
+      Presented a dissertation with title 'An Introduction to Active Directory', I was supervised by Prof Almir Pires Ferreira Neto.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: QA Engineer
+    company_name: K3 Business Technologies
+    company_url: https://www.k3btg.com/
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2019-10-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      Design and implement test strategies for new and existing features. Design and develop test cases (manual and automatic) for Mobile and Web applications. Implement QA best practices. Lead QA demos. Tools: Azure DevOps, Protractor, Postman, Cypress, among others.
+  - position: System Test Engineer
+    company_name: Omron Industrial Automation Europe
+    company_url: https://www.omron.com/
+    company_logo: ''
+    date_start: 2017-10-01
+    date_end: 2019-09-30
+    summary: |
+      Functional and non-functional tests (Reliability, Performance, and Vulnerability); Creation of test scenarios according to the demand for new features; Maintenance of the test cases for IPC's. Tracking of the defects Training newcomers testers and factory employees regarding the processes, tools, and test activities. Work in a scrum team in close collaboration with testers and developers. Execute functional, Reliability, Performance and Security tests in IPCs. Review test strategy, write test cases regarding security and test summary report, support software engineering teams with trouble shooting, and validation activities for sub-systems. Tools: Confluence, Jira, TestRail, OpenVAS. 
+  - position: Freelance Web Designer
+    company_name: Freelance
+    company_url: https://www.omron.com/
+    company_logo: ''
+    date_start: 2017-10-01
+    date_end: 2019-09-30
+    summary: |
+      Maintenance and addition of texts translated into several languages on the www.hecovan.nl website.
+  - position: Software Test Engineer
+    company_name: Cin/Motorola Mobility
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2013-01-01
+    date_end: 2016-06-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Tests on Android Devices (Exploratory, Language, Regression and Automated); Creation of test runs according to the result of the analysis of defects registered in Jira tool for quality assurance of the product. Issue meeting with Product Leaders to discuss bugs found and areas to explore the mobile software. Setup test environment, performing (exploratory, regression, language and Google Acceptance - CTS and GTS) tests in mobile devices, writing bug reports and collect log of issues. Later promoted to Product Champion, working with global team (R&D, Product and developers’ team) in a virtual environment to give feedback of the test results and report problems to them and planning the tests for future releases.
+  - position: Part Owner
+    company_name: Curso Yes!
+    company_url: ''
+    company_logo: ''
+    date_start: 2010-01-01
+    date_end: 2012-12-31
+    summary: |
+      Implantation of franchise operation. Implant routines and develop the team under the procedures. Also, in this implantation, the communication skills and leadership were developed, dealing directly with employees and customers.
+  - position: Software Development - Intern
+    company_name: Procenge
+    company_url: ''
+    company_logo: ''
+    date_start: 2007-02-01
+    date_end: 2007-09-30
+    summary: |
+      Development of systems in Delphi 6 and Modeling them on Jude tool. Development of reports on Crystal Reports with access tô MySQL database
+  - position: Software development - Intern
+    company_name: AGM Solucoes em TI
+    company_url: ''
+    company_logo: ''
+    date_start: 2005-01-01
+    date_end: 2005-10-31
+    summary: |
+      Development of systems in Delphi 6 and delevoplement of user manual.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
+      - name: Agile Testing
         description: ''
         percent: 100
-        icon: chart-bar
+      - name: Quality Assurance (QA)
+        description: ''
+        percent: 100
+      - name: Cypress
+        description: ''
+        percent: 100
+      - name: Postman
+        description: ''
+        percent: 90
+      - name: Microsoft Azure
+        description: ''
+        percent: 90
+      - name: JIRA
+        description: ''
+        percent: 90
+      - name: Microsoft Dynamics 365 Business Central
+        description: ''
+        percent: 90
+      - name: Protractor
+        description: ''
+        percent: 90
+      - name: Scrum
+        description: ''
+        percent: 90
       - name: SQL
         description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
+        percent: 70
+      - name: User Stories
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        percent: 90
+      - name: Acceptance Testing
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+      - name: Selenium WebDriver
         description: ''
-        percent: 80
-        icon: camera
+        percent: 95
+      - name: Confluence
+        description: ''
+        percent: 90
+      - name: Testrail
+        description: ''
+        percent: 90
+      - name: Azure DevOps
+        description: ''
+        percent: 90
+      - name: Postman API
+        description: ''
+        percent: 90
+      - name: Git
+        description: ''
+        percent: 90
+      - name: GitHub
+        description: ''
+        percent: 90
+      - name: IELTS
+        description: ''
+        percent: 100
+      - name: CTFL
+        description: ''
+        percent: 100
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
+  - name: Spanish
+    percent: 100
   - name: Portuguese
-    percent: 25
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: IELTS
+    url: https://ieltsregistration.britishcouncil.org
+    date: '2015-06-01'
+    awarder: British Council
+    icon: web
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      IELTS Certification.
+  - title: CTFL
+    url: https://www.istqb.org
+    date: '2015-06-01'
+    awarder: ISTQB
+    icon: web
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
+      CTFL ISTQB® - International Software Testing Qualifications BoardISTQB® - International Software Testing Qualifications Board. Credential ID 13 - CTFL - 02640 - BR
+  - title: Certified Scrum Professional (CSP)
+    url: https://certiprof.com/pages/smpc-scrum-master-professional-certificate
     date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+    awarder: Certiprof
+    icon: web
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Credential ID FLCLBQCJWP-SSJGFJRL-WHKNFDNZWK
 ---
 
 ## About Me
+Software Test Engineer, ISTQB certified who works to deliver the best product with guaranteed quality. Experience in mobile, security and functional tests. Ability to extract Test Case from documentation. Experience with test automation tools: Selenium Web Driver, Cucumber. Familiarity with web product interactions/technologies such as HTML and JavaScript.
 
+At K3 Business Technologies, the focus is on driving quality assurance innovation, with a spotlight on Agile testing methodologies. Over five years in the role have sharpened my expertise in tools such as Azure DevOps and Cypress, ensuring that our products meet the highest standards of excellence.
+
+Leadership is a key component of my approach; by conducting QA demonstrations, we foster a culture of continuous improvement. My expertise not only ensures the reliability of software solutions but also empowers our team to champion industry-leading practices in quality assurance.
 Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
